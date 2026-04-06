@@ -1,0 +1,9 @@
+.container__header--left {
+    background-color: crimson;
+}
+
+.title {
+    font-family: Verdana;
+    font-size: 2rem;
+    color: white;
+}
